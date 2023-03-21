@@ -6,6 +6,7 @@
  */
 //클래스에 선언하는 접근제한자 : 생략, public
 	// Cloneable 인터페이스는 추상메소드를 가지지 않는다. 마킹 인터페이스.
+	// 하하하
 public class Account implements Cloneable{
 	// 은행이름 (상수)
 	public final static String BANK_NAME = "이젠뱅크";
